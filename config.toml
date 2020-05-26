@@ -1,0 +1,4 @@
+baseURL = "https://kant00.github.io/"
+languageCode = "zh-hans"
+title = "彦子的博客"
+theme = "ananke"
